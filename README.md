@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola, soy Héctor! 👋
 
-<!--
-**hectorvasquezdev/hectorvasquezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/-Héctor%20Vásquez%20Pérez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hvasquezp/)
+[![GitHub Badge](https://img.shields.io/badge/-Héctor%20Vásquez%20Pérez-181717?style=flat&logo=github&logoColor=white)](https://github.com/hectorvasquezdev)
 
-Here are some ideas to get you started:
+Soy un desarrollador Frontend de Perú 🇵🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Visit my personal website: [hectorvasquezdev](link)
+
+## 🔧 Tech Stack:
+- JavaScript (JS), Node.js, React, Angular.
+- HTML, CSS, Tailwind CSS 
+- Python
+- PostgreSQL
+
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hectorvasquezdev&theme=dark&hide_border=verdadero&border_radius=4.4&locale=es&short_numbers=falso)](https://git.io/streak-stats)
+
+
+
+
+
+## 📫 How to reach me:
+- [Email](mailto:hectorvp1234@gmail)
+- [LinkedIn](https://www.linkedin.com/in/hvasquezp/)
+- [GitHub](https://github.com/hectorvasquezdev)
