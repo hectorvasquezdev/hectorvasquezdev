@@ -13,13 +13,6 @@ Soy un desarrollador Frontend de Perú 🇵🇪
 - Python
 - PostgreSQL
 
-### GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hectorvasquezdev&theme=dark&hide_border=verdadero&border_radius=4.4&locale=es&short_numbers=falso)](https://git.io/streak-stats)
-
-
-
-
 
 ## 📫 How to reach me:
 - [Email](mailto:hectorvp1234@gmail)
