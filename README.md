@@ -1,3 +1,6 @@
+![1763317484091](https://github.com/user-attachments/assets/ce135cbe-df47-480b-908e-6f4baff9b6dd)
+
+
 # ¡Hola, soy Héctor! 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Héctor%20Vásquez%20Pérez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hvasquezp/)
