@@ -1,4 +1,4 @@
-![Banner](./assets/banner.png)
+![Banner](https://github.com/user-attachments/assets/ce135cbe-df47-480b-908e-6f4baff9b6dd)
 
 # ¡Hola, soy Héctor Vásquez Pérez! 👋
 
